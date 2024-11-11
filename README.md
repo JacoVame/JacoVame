@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://app.daily.dev/jacobvame"><img src="https://api.daily.dev/devcards/v2/ed90003d903840b0ae65493557a1ccde.png?type=default&r=6kn" width="356" alt="Gianluca Gagliano's Dev Card"/></a>
+<a href="https://app.daily.dev/jacobvame"><img src="https://api.daily.dev/devcards/v2/ed90003d903840b0ae65493557a1ccde.png?type=wide&r=51u" width="652" alt="Gianluca Gagliano's Dev Card"/></a>
 - 🔭 I'm currently working on Blazor
 - 🌱 I'm currently learning everything I can
 <!--
